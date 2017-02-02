@@ -1,0 +1,10 @@
+c:\users\laurynas\documents\visual studio 2015\Projects\RestService\RestService\bin\RestService.dll.config
+c:\users\laurynas\documents\visual studio 2015\Projects\RestService\RestService\bin\RestService.dll
+c:\users\laurynas\documents\visual studio 2015\Projects\RestService\RestService\bin\RestService.pdb
+c:\users\laurynas\documents\visual studio 2015\Projects\RestService\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+c:\users\laurynas\documents\visual studio 2015\Projects\RestService\RestService\obj\Debug\RestService.dll
+c:\users\laurynas\documents\visual studio 2015\Projects\RestService\RestService\obj\Debug\RestService.pdb
+C:\Users\Laurynas\documents\visual studio 2015\Projects\RestService\RestService\bin\openalpr-net.dll
+C:\Users\Laurynas\documents\visual studio 2015\Projects\RestService\RestService\bin\MySql.Data.dll
+C:\Users\Laurynas\documents\visual studio 2015\Projects\RestService\RestService\bin\Google.Protobuf.dll
+C:\Users\Laurynas\documents\visual studio 2015\Projects\RestService\RestService\bin\MySql.Data.xml
